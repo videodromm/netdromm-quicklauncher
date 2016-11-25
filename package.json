@@ -1,0 +1,17 @@
+{
+  "name": "netdromm-local",
+  "version": "1.0.0",
+  "description": "A netdromm local quick launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "azopcorp",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
